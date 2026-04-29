@@ -1,0 +1,16 @@
+{
+  "name": "每日打卡积分系统",
+  "short_name": "每日打卡",
+  "description": "完成任务赚积分",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a1929",
+  "theme_color": "#0a1929",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
